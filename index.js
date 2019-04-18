@@ -13,9 +13,10 @@ function yourAnimal() {
   return animal
 }
 
-var n = 2
 
 function add2(n) {
+
+var n = 2
 
   return n + two
 
